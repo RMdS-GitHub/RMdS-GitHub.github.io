@@ -128,9 +128,10 @@ li {
 }
 
  /*Since all the bold text in this page will have the same color I
-made the CSS rule for the <b> itself, more easy to code.*/
-    b {
+made the CSS rule for the <p class="gold"> itself, more easy to code.*/
+    .gold {
     color: #ffd700;
+    font-weight: bold;
 }
 
 /*This will mark only the text tagged, remember to put the 
